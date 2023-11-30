@@ -1,0 +1,25 @@
+Puppeteer Requirements-
+
+1.	Node.js
+2.	npm install lighthouse
+3.	npm install puppet
+4.	npm install puppetteer
+
+To verify the packages installed -- 'npm list'
+
+Recording-
+
+1.	Browser dev tool folowed by Recorder tab
+2. 	create new recording with a file name.
+3.	Start navigating the flow from the browser.
+4.	After end of the flow stop recording.
+5.	Export recording to Puppeteer format.
+
+Scripting-
+
+Execution-
+1.	Run the command 'node <FileName.js>'
+
+
+
+
